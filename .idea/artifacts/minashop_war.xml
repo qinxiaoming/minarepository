@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="minashop:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="minashop.war">
+      <element id="artifact" artifact-name="minashop:war exploded" />
+    </root>
+  </artifact>
+</component>
